@@ -1,0 +1,6 @@
+{
+  "name": "የባቡር ጣቢያው ጥላ - የአማርኛ ልብ-ወለድ እና የድምፅ ትረካ",
+  "description": "በላፍቶ ባቡር ጣቢያ ስለተገናኙትና አዲስ ሕይወት ስለጀመሩት ስለ አማኑኤል እና ሌሊሴ የሚተርክ ድንቅ የአማርኛ ልብ-ወለድ ከመስተጋብራዊ የድምፅ ትረካ (Gemini TTS) ጋር።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
